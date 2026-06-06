@@ -352,6 +352,9 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 ### web3.js
 -   [doc](https://web3js.readthedocs.io/en/1.0/) / [Chinese version](http://web3.tryblockchain.org/Web3.js-api-refrence.html)
 
+### AI Agent Tools & MCP Servers
+-   [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents on Solana. Free on-chain preflight checks trust + identity signals; signed USDC receipt (<$0.01, <1s). MCP: `https://intel.twzrd.xyz/mcp`
+
 ## Implementation of Blockchain
 -   [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
 -   [**C#**: _Programming The Blockchain in C#_](https://programmingblockchain.gitbooks.io/programmingblockchain/)
